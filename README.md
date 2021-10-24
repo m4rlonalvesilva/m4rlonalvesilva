@@ -27,7 +27,6 @@
   <img align="center" alt="malvsilv-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="malvsilv-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg">
   <img align="center" alt="malvsilv-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901971891261149187/901971984634773585/download20211000201356.png?width=364&height=364">
 </div>
   
 ##
