@@ -1,6 +1,6 @@
-## Marlon Alves da Silva | NTT DATA
+## Olá! Seja bem-vindo(a). Eu sou o Marlon Alves da Silva
 
-- 🔭 Atualmente estou trabalhando com análise de sistemas.
+- 🔭 Atualmente estou trabalhando com análise de sistemas para um cliente que é referência em no ramo de telecomunicações.
 - 🌱 Estou estudando AWS.
   
   <div style="display: inline_block"><br>
