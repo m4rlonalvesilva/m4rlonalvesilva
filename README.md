@@ -1,7 +1,7 @@
-## Olá! Seja bem-vindo(a). Eu sou o Marlon Alves da Silva
+### Hello, I'm Marlon! 👋
 
-- 🔭 Atualmente estou trabalhando com análise de sistemas para um cliente que é referência em no ramo de telecomunicações.
-- 🌱 Estou estudando AWS.
+🇧🇷  I provide technical support for large scale projects at [@NTTDATA](https://github.com/NTTDATA) <br>
+👩‍💻  Working with Support for [Telefónica](https://github.com/telefonica), a reference in telecommunications. <br>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="malvsilv-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
