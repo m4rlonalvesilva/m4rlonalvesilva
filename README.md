@@ -1,16 +1,16 @@
 ### Hello, I'm Marlon! 👋
 
-🇧🇷  I provide technical support for large scale projects at [@NTTDATA](https://github.com/NTTDATA). <br>
-👩‍💻  Working for [Vivo/Telefónica Brasil](https://github.com/telefonica), reference in telecommunications. <br>
+🇧🇷	I provide technical support for large scale projects at [@NTTDATA](https://github.com/NTTDATA). <br>
+👩‍💻	Working for [Vivo/Telefónica Brasil](https://github.com/telefonica), reference in telecommunications. <br>
 
 ### Find me elsewhere 🌎
 
-✨  [Blog](https://m4rlonalvesilva.hashnode.dev) <br>
-📽️  [Youtube](https://www.youtube.com/channel/UC1yOfZ5sa66GA7FJ6fWdPcA) <br>
-🐦  [Twitter](https://twitter.com/m4rlonalvesilva) <br>
-📸  [Instagram](https://www.instagram.com/m4rlonalvesilva) <br>
-💼  [LinkedIn](https://www.linkedin.com/in/m4rlonalvesilva) <br>
-✉️  [E-mail](mailto:marlonesx@gmail.com) <br>
+✨	[Blog](https://m4rlonalvesilva.hashnode.dev) <br>
+📽️	[Youtube](https://www.youtube.com/channel/UC1yOfZ5sa66GA7FJ6fWdPcA) <br>
+🐦	[Twitter](https://twitter.com/m4rlonalvesilva) <br>
+📸	[Instagram](https://www.instagram.com/m4rlonalvesilva) <br>
+💼	[LinkedIn](https://www.linkedin.com/in/m4rlonalvesilva) <br>
+✉️	[E-mail](mailto:marlonesx@gmail.com) <br>
 
 ### My technology Stack 👩‍💻
 
