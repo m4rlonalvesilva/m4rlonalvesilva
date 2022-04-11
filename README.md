@@ -1,6 +1,6 @@
 ### Hello, I'm Marlon! 👋
 
-🇧🇷  I provide technical support for large scale projects at [@NTTDATA].(https://github.com/NTTDATA) <br>
+🇧🇷  I provide technical support for large scale projects at [@NTTDATA](https://github.com/NTTDATA). <br>
 👩‍💻  Working for [Vivo/Telefónica Brasil](https://github.com/telefonica), reference in telecommunications. <br>
 
 
