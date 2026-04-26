@@ -1,10 +1,26 @@
-# Marlon Alves da Silva
+# Hi, I'm Marlon 👋
 
 Infrastructure Analyst focused on SRE practices, Kubernetes, troubleshooting and automation.
 
-## Current Focus
-- Kubernetes
+## 🔧 Core Skills
+
+- Kubernetes Operations
+- Linux Administration
+- Troubleshooting
+- Incident Analysis
 - Reliability Engineering
-- Incident Response
-- Linux / Bash / Python
-- CKA Journey
+- Bash / Python Automation
+- Monitoring & Alerts
+
+## 🚀 Current Goals
+
+- CKA Certification
+- Grow into SRE roles
+- Advanced English for global opportunities
+
+## 📌 Featured Projects
+
+- Monitoring tools
+- Log collection automation
+- API health checks
+- Kubernetes labs
