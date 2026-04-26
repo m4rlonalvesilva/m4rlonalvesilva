@@ -15,7 +15,7 @@ Infrastructure Analyst focused on SRE practices, Kubernetes, troubleshooting and
 ## 🚀 Current Goals
 
 - CKA Certification
-- Grow into SRE roles
+- Advance into SRE roles
 - Advanced English for global opportunities
 
 ## 📌 Featured Projects
